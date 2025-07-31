@@ -65,3 +65,7 @@ nav{
 
 CSS framework [Tailwinfcss](https://www.w3schools.com/)
 
+## Image Dashboard
+
+![Dashboard](image.png)
+
