@@ -55,10 +55,9 @@ nav{
 }
 ```
 
-
 ## Check list 
 - [x] Home page
 - [x] About page
-- [] Contact page
-- [] Service page
+- [ ] Contact page
+- [ ] Service page
 
