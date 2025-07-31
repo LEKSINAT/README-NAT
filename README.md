@@ -53,3 +53,12 @@ nav{
     display: flex;
     justify-content:center;
 }
+```
+
+
+## Check list 
+- [x] Home page
+- [x] About page
+- [] Contact page
+- [] Service page
+
